@@ -1,5 +1,5 @@
 {
-    "name": "@surajadsul02/mcp-server-salesforce",
+    "name": "@nitinr/mcp-server-salesforce",
     "version": "0.0.2",
     "description": "A Salesforce connector MCP Server.",
     "main": "dist/index.js",
@@ -23,7 +23,7 @@
       "claude",
       "ai"
     ],
-    "author": "surajadsul02",
+    "author": "nitinr",
     "license": "MIT",
     "dependencies": {
       "@modelcontextprotocol/sdk": "0.5.0",
